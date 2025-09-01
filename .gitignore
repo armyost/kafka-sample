@@ -1,0 +1,4 @@
+consumer/node_modules
+consumer/dist
+producer/node_modules
+producer/dist
